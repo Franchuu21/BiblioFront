@@ -1,16 +1,3 @@
-import { Text,StyleSheet, View } from 'react-native';
-
-export function Segunda() {
-  return (
-    <View style={styles.container}>
-      <Text>2</Text>
-    </View>
-  );
-}
-
-
-  
-
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, TextInput, Image } from 'react-native';
 
